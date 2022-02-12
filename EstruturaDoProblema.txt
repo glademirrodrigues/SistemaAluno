@@ -1,0 +1,6 @@
+Percorrer do 0 até o número total de alunnos
+
+Se o numero for par escrever "par"e o numero correspondente
+Se o numero for impar escrever "impar"e o numero correspondente
+Se o numero for zero escrever "zero"e o numero correspondente
+
